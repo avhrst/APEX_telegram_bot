@@ -1,12 +1,14 @@
 # APEX_telegram_bot
 
-## Using 
+## BOT 
 
-Connect to bot and sent messages.
+Connect to telegram bot and sent messages.
 ```
 @DemoApexBot_bot
 ```
 
+
+## APEX Sources
 Connect to 
 ```
 https://apex.oracle.com/
